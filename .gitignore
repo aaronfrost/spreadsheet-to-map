@@ -1,0 +1,5 @@
+env.js
+.idea
+*.pem
+*.p12
+node_modules

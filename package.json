@@ -1,0 +1,15 @@
+{
+  "name": "ngconf-googlemapscript",
+  "version": "0.0.0",
+  "description": "This is to help build the man for ng-conf",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aaronfrost@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "edit-google-spreadsheet": "^0.2.16",
+    "lodash": "^3.1.0"
+  }
+}
