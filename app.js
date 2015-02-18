@@ -30,6 +30,7 @@ Spreadsheet.load({
       throw err;
     }
 
+    console.log('rows', rows);
     var allRows = _.chain(rows)
       .map(function(d){
         return d;
@@ -37,11 +38,15 @@ Spreadsheet.load({
       .map(function(d){
         return new Row(d);
       })
+      .filter(function(d){
+        return d.lat != undefined && d.long != undefined;
+      })
       .value();
 
-    var publicEvents = _.filter(allRows, function(r){
-      return !r.private;
-    });
+    //var publicEvents = _.filter(allRows, function(r){
+    //  return !r.private;
+    //});
+    var publicEvents = allRows;
     console.log('rows', allRows.length, publicEvents.length);
     fs.writeFile('public/events.json', JSON.stringify(publicEvents), function(e, res){
       if(e) console.error(e);
