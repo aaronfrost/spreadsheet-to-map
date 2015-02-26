@@ -39,7 +39,13 @@ Spreadsheet.load({
         return new Row(d);
       })
       .filter(function(d){
+        return d.fullName != 'Enter your full name';
+      })
+      .filter(function(d){
         return d.lat != undefined && d.long != undefined;
+      })
+      .filter(function(d){
+        return !(d.lat == 0 || d.long == 0);
       })
       .value();
 

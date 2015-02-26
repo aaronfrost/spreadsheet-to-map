@@ -1,0 +1,250 @@
+[
+  {
+    "type": "American Bistro",
+    "name": "Copper Onion",
+    "address": "Copper Onion, 111 East Broadway, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7631476,
+    "lng": -111.8876053
+  },
+  {
+    "type": "American Bistro",
+    "name": "Faustina",
+    "address": "Faustina, 454 East 300 South, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7624295,
+    "lng": -111.8778081
+  },
+  {
+    "type": "American Bistro",
+    "name": "Eva",
+    "address": "Eva, 317 South Main St, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7623162,
+    "lng": -111.8906277
+  },
+  {
+    "type": "American Bistro",
+    "name": "Rye",
+    "address": "Rye, 239 South 500 East, SLC UT",
+    "pricey": "$$",
+    "lat": 40.4019426,
+    "lng": -111.9284288
+  },
+  {
+    "type": "American Bistro",
+    "name": "Bambara",
+    "address": "Bambara, 202 South Main Street, SLC UT",
+    "pricey": "$$$",
+    "lat": 40.7648013,
+    "lng": -111.8916991
+  },
+  {
+    "type": "American Bistro",
+    "name": "Market Street",
+    "address": "Market Street, 28 West Market Street, SLC UT",
+    "pricey": "$$$",
+    "lat": 40.7617594,
+    "lng": -111.8920695
+  },
+  {
+    "type": "American Bistro",
+    "name": "Cheesecake Factory",
+    "address": "Cheesecake Factory, 65 Regent Street, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7671025,
+    "lng": -111.8897514
+  },
+  {
+    "type": "American Bistro",
+    "name": "Blue Lemon",
+    "address": "Blue Lemon, 55 West South Temple, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7693532,
+    "lng": -111.8700795
+  },
+  {
+    "type": "Japanese/Sushi",
+    "name": "Yellowtail Japanese Bistro",
+    "address": "Yellowtail Japanese Bistro, 321 South Main Street, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7621831,
+    "lng": -111.8904102
+  },
+  {
+    "type": "Japanese/Sushi",
+    "name": "Takashi",
+    "address": "Takashi, 18 West Market Street, SLC UT",
+    "pricey": "$$$",
+    "lat": 40.7619624,
+    "lng": -111.8918015
+  },
+  {
+    "type": "Japanese/Sushi",
+    "name": "Naked Fish",
+    "address": "Naked Fish, 67 West 100 South, SLC UT",
+    "pricey": "$$$",
+    "lat": 40.766848,
+    "lng": -111.893406
+  },
+  {
+    "type": "Bar/Tavern/Lounge",
+    "name": "Whiskey Street",
+    "address": "Whiskey Street, 323 South Main Street, SLC UT",
+    "pricey": "$$",
+    "lat": 40.762121,
+    "lng": -111.890532
+  },
+  {
+    "type": "Bar/Tavern/Lounge",
+    "name": "Bodega",
+    "address": "Bodega, 331 South Main Street, SLC UT",
+    "pricey": "$$",
+    "lat": 40.761845,
+    "lng": -111.890663
+  },
+  {
+    "type": "Bar/Tavern/Lounge",
+    "name": "Gracie's",
+    "address": "Gracie's, 326 South West Temple, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7715699,
+    "lng": -111.8938999
+  },
+  {
+    "type": "Bar/Tavern/Lounge",
+    "name": "Beerhive",
+    "address": "Beerhive, 128 South Main Street, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7663937,
+    "lng": -111.8915699
+  },
+  {
+    "type": "Breweries",
+    "name": "Red Rock",
+    "address": "Red Rock, 254 South 200 West, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7636773,
+    "lng": -111.8972055
+  },
+  {
+    "type": "Breweries",
+    "name": "Squatters",
+    "address": "Squatters, 147 West Broadway, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7625425,
+    "lng": -111.8957198
+  },
+  {
+    "type": "Cafe/Tapas",
+    "name": "Martine",
+    "address": "Martine, 22 East 100 South, SLC UT",
+    "pricey": "$$$",
+    "lat": 40.7563096,
+    "lng": -111.8915184
+  },
+  {
+    "type": "Italian",
+    "name": "Cafe Molise",
+    "address": "Cafe Molise, 55 West 100 South, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7668754,
+    "lng": -111.8929775
+  },
+  {
+    "type": "Italian",
+    "name": "Cannellas",
+    "address": "Cannellas, 204 East 500 South, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7582269,
+    "lng": -111.8850354
+  },
+  {
+    "type": "Italian",
+    "name": "Stoneground Kitchen",
+    "address": "Stoneground Kitchen, 249 East 400 South, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7608625,
+    "lng": -111.8836504
+  },
+  {
+    "type": "Italian",
+    "name": "Brio",
+    "address": "Brio, 80 South Regent Street, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7674587,
+    "lng": -111.8899971
+  },
+  {
+    "type": "Mexican",
+    "name": "Alamexo",
+    "address": "Alamexo, 268 South State Street, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7635375,
+    "lng": -111.8888392
+  },
+  {
+    "type": "Mexican",
+    "name": "Frida Bistro",
+    "address": "Frida Bistro, 545 West 700 South, SLC UT",
+    "pricey": "$$$",
+    "lat": 40.7537265,
+    "lng": -111.9069398
+  },
+  {
+    "type": "Mexican",
+    "name": "Red Iguana 2",
+    "address": "Red Iguana 2, 886 West South Temple, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7693532,
+    "lng": -111.8700795
+  },
+  {
+    "type": "Spanish",
+    "name": "Finca",
+    "address": "Finca, 327 West 200 South, SLC UT",
+    "pricey": "$$",
+    "lat": 40.764516,
+    "lng": -111.900653
+  },
+  {
+    "type": "Spanish",
+    "name": "Bocata",
+    "address": "Bocata, 28 South State Street, SLC UT",
+    "pricey": "$",
+    "lat": 40.7686492,
+    "lng": -111.8887353
+  },
+  {
+    "type": "Brazilian",
+    "name": "Texas de Brazil",
+    "address": "Texas de Brazil, 50 South Main Street, SLC UT",
+    "pricey": "$$$",
+    "lat": 40.7679778,
+    "lng": -111.8918079
+  },
+  {
+    "type": "Vietnamese",
+    "name": "Pleiku",
+    "address": "Pleiku, 264 South Main Street, SLC UT",
+    "pricey": "$",
+    "lat": 40.7634287,
+    "lng": -111.8915383
+  },
+  {
+    "type": "Cajun",
+    "name": "The Bayou",
+    "address": "The Bayou, 645 South State Street, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7551307,
+    "lng": -111.8877402
+  },
+  {
+    "type": "Pizza",
+    "name": "Maxwells",
+    "address": "Maxwells, 357 South Main Street, SLC UT",
+    "pricey": "$$",
+    "lat": 40.7613249,
+    "lng": -111.8909734
+  }
+]
